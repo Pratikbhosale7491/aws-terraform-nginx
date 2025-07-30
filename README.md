@@ -2,7 +2,7 @@
 
 This project provisions an AWS EC2 instance running **NGINX**, using **Terraform** with a modular structure. It includes all necessary networking components like a VPC, public subnet, internet gateway, and a security group allowing SSH and HTTP traffic.
 
----
+ 
 
 ## 📦 Features
 
@@ -13,7 +13,7 @@ This project provisions an AWS EC2 instance running **NGINX**, using **Terraform
 - ✅ User data script to install NGINX
 - ✅ Modular Terraform structure
 
----
+ 
 
 ## ⚙️ Requirements
 
@@ -22,7 +22,7 @@ This project provisions an AWS EC2 instance running **NGINX**, using **Terraform
 - AWS credentials configured (`aws configure`)
 - An existing EC2 Key Pair (`key_name` must match)
 
----
+
 
 ## 🚀 Usage
 
@@ -81,11 +81,7 @@ DevOps | Cloud | Terraform | AWS
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-python
-Copy
-Edit
-
----
+ 
 
 
 
